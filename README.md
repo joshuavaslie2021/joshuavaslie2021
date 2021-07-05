@@ -1,7 +1,4 @@
 ## Hello World! 🌎 
-
-
-
 [![Linkedin Badge](https://img.shields.io/badge/-vasliejoshua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vasliejoshua/)](https://www.linkedin.com/in/vasliejoshua/)
 [![Gmail Badge](https://img.shields.io/badge/-joshuavaslie2021@u.northwestern.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshuavaslie2021@u.northwestern.edu)](mailto:joshuavaslie2021@u.northwestern.edu)
 [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white&link=https://slack.com/joshuavaslie2021@u.northwestern.edu)](https://app.slack.com/client/T01AA2DAAQJ/composer/draft-163cf50c-dd49-4fd8-8e2c-eed2c8b9761f/user_profile/U01B74CR39R) 
@@ -9,9 +6,12 @@
 [![XBOX Badge](https://img.shields.io/badge/THEBRODIE27-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white&link=https://account.xbox.com/en-us/profile?gamertag=THEBRODIE27)](https://account.xbox.com/en-us/profile?gamertag=THEBRODIE27)
 
 
-## WhoAmI 👨‍💻
+![](/Josh.gif)
 
 
+## About Me 🤓
+
+Hello! Thank you for visiting my Bio page and taking an interest in my body of work. I am an aspiring software engineer located out of Chicago, Illinois pursuing a career in tech. I have been in the finance/analytics field for 5 years, graduating Magna Cum Laude from the University of Missouri-Columbia in 2016 as a double major in Finance & Real Estate, and International Business – Spanish. I have industry experience with Data Science applications such as Tableau, Tagitek, and Sungard. I have recently obtained certification from the University of Northwestern for coding, and have experience using HTML5, CSS, Javascript, Visual Basic, and several other computing languages.
 
 
 
