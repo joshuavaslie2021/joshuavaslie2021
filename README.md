@@ -45,12 +45,24 @@ Hello! Thank you for visiting my Bio page and taking an interest in my body of w
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[![Learnng Badge](https://img.shields.io/badge/Currently-LEARNING-blue.svg)](https://shields.io/) :
+
+- to use Docker as a platform and its usage of containers to develop and deploy apps quickly and efficiently 
+
+  AND
+- Python as an object-oriented programming language
+
+[![Conversation Badge](https://img.shields.io/badge/AskMe-ABOUT-yellow.svg)](https://shields.io/) :
+
+ my recent graduation from Northwestern University's coding bootcamp and the array of content covered! 🎉
+
+[![contact badge](https://img.shields.io/badge/ReachMe-AT-purple.svg)](https://shields.io/) : joshuavaslie2021@u.northwestern.edu
+
+
+
+
+
+
+
