@@ -42,7 +42,7 @@ Hello! Thank you for visiting my Bio page and taking an interest in my body of w
 ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 
 
@@ -58,7 +58,7 @@ Hello! Thank you for visiting my Bio page and taking an interest in my body of w
 
  my recent graduation from Northwestern University's coding bootcamp and the array of content covered! 🎉
 
-[![contact badge](https://img.shields.io/badge/ReachMe-AT-purple.svg)](https://shields.io/) : joshuavaslie2021@u.northwestern.edu
+[![contact badge](https://img.shields.io/badge/ReachMe-AT-purple.svg)](https://shields.io/) : jvaslie@meta.com | joshuavaslie2021@u.northwestern.edu
 
 
 
