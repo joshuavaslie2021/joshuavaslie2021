@@ -58,7 +58,7 @@ Hello! Thank you for visiting my Bio page and taking an interest in my body of w
 
  my recent graduation from Northwestern University's coding bootcamp and the array of content covered! 🎉
 
-[![contact badge](https://img.shields.io/badge/ReachMe-AT-purple.svg)](https://shields.io/) : jvaslie@meta.com | joshuavaslie2021@u.northwestern.edu
+[![contact badge](https://img.shields.io/badge/ReachMe-AT-purple.svg)](https://shields.io/) :  vaslie.joshua@gmail.com
 
 
 
